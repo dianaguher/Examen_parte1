@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Examen_parte1</string>
+    <string-array name="mode">
+        <item>List</item>
+        <item>Grill</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Costa Rica</item>
+        <item>Nicaragua</item>
+        <item>Honduras</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Belice</item>
+        <item>México</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+    </string-array>
+</resources>
